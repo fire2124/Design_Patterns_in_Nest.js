@@ -13,3 +13,7 @@ Nest.js is a modern, scalable, and powerful framework for building server-side a
 6. Middleware Pattern: The Middleware pattern is used in Nest.js to handle requests and responses. It allows you to add functionality to the request/response pipeline of your application.
 
 These patterns are used extensively in Nest.js and are the building blocks of most Nest.js applications. They help to make the code modular, maintainable, and scalable.
+
+More
+
+https://blog.logrocket.com/understanding-design-patterns-typescript-node-js/#singleton-pattern
